@@ -1,2 +1,2 @@
-# Storage-
-I will be storing every data in this
+# Storage- 
+Just another repository
